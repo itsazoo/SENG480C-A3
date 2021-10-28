@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Test.md",
+            "file": "Cars with automatic pattern detection.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Test.md",
+                "file": "Cars with automatic pattern detection.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,6 +88,9 @@
   },
   "active": "9392fa90b8c1d4d2",
   "lastOpenFiles": [
-    "Untitled.md"
+    "Cars with automatic pattern detection.md",
+    "Test.md",
+    "README.md",
+    "Page_2.md"
   ]
 }
