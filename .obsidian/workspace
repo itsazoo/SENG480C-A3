@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Attention.md",
+            "file": "Designing for Augmented Attention.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Attention.md",
+                "file": "Designing for Augmented Attention.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,12 +88,15 @@
   },
   "active": "9392fa90b8c1d4d2",
   "lastOpenFiles": [
-    "Attention.md",
-    "Attention affected by Environment.md",
+    "Designing for Augmented Attention.md",
     "Nature enhances attention.md",
-    "Remote work setting.md",
     "White noise machines.md",
-    "README.md",
-    "Cars with automatic pattern detection.md"
+    "Visual Attention Model.md",
+    "Remote work setting.md",
+    "Diminished Reality Spaces.md",
+    "Adaptive Monitoring Agents.md",
+    "Attention affected by Environment.md",
+    "Attention.md",
+    "Attentive User Intefaces.md"
   ]
 }
