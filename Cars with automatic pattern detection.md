@@ -1,0 +1,1 @@
+Modern day cars, not self driving cars, have been wired with automatic pattern detection. This feature complement human's attention spans. It does not interfere in the driving process until the human has a lapse in attention. In which case, this feature can detect issues such as going into the wrong lane, lack of steering movement for too long, etc.
