@@ -39,3 +39,11 @@
 
 **bold text**
 
+# Link to Internal MD File
+
+[[Attention - All]]
+
+# Link to Internal MD File with Custom Text
+
+[[Attention - All | Custom Text]] 
+
