@@ -7,11 +7,8 @@
         "id": "9392fa90b8c1d4d2",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Diminished Reality Spaces.md",
-            "mode": "source"
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -68,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Diminished Reality Spaces.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +84,15 @@
   },
   "active": "9392fa90b8c1d4d2",
   "lastOpenFiles": [
-    "Diminished Reality Spaces.md",
-    "Designing for Augmented Attention.md",
-    "Nature enhances attention.md",
-    "White noise machines.md",
-    "Visual Attention Model.md",
-    "Remote work setting.md",
-    "Adaptive Monitoring Agents.md",
+    "Attention & Interfacing with Devices.md",
     "Attention affected by Environment.md",
+    "Designing for Augmented Attention.md",
+    "Diminished Reality Spaces.md",
     "Attention.md",
+    "Effects of Likelihood Alarm.md",
+    "Central Nicotinic Cholinergic Systems.md",
+    "Cars with automatic pattern detection.md",
+    "Aware Brain Computer Interface.md",
     "Attentive User Intefaces.md"
   ]
 }
