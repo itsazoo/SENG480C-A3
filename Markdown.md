@@ -12,6 +12,11 @@
 
 ![Alt text](https://www.vmcdn.ca/f/files/via/images/city-images/northern-lights-van.jpg)
 
+# Image with caption
+
+| ![Diminished Reality Concept](Images/Diminished_Reality.png) |
+|:--:|
+| *Figure 1: * |
 
 # Code Example
 

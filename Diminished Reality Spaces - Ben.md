@@ -6,15 +6,22 @@ Ben Miller
 [[Attention & Interfacing with Devices - All]]
 [[Attention - All]]
 
-
-
 [Article](https://ieeexplore.ieee.org/abstract/document/7344759?casa_token=NVceMcG0x4IAAAAA:ESE3lc-tiTvd9WzoZzYtHxGrCpW7RPPQoX4LHKfwiD_wB2JXtv32a8R6QLjsP4I1oMj8fgWi8g)
 
 # Introduction
 
-Emerging technologies increase distraction due to the high number of displaying surfaces and increased amounts of data around us. In our everyday lives, we encounter many distracting factors. Pointing out the relevance of attentive user interfaces (AUIs) by referring to the fact that our attention is a limited resource, Vertegaal [24] claims that we may better manage our attention by using technologies sensing, analyzing, and keeping track of our surroundings and ourselves. In this sense, AUIs are seen as systems tracking factors in the environment such as proximity, orientation, or verbal communication. Some of these studies follow a Diminished Reality (DR) approach for filtering out the information we receive before it reaches our sensory system. While most AUI solutions have been intended for HCI, recently it has also started to be addressed for human-human interaction (HHI) as well. These advances provide some playful and experimental novel opportunities for interaction design.
+The ever-increasing emergence of technologies increases distraction. Increasing amounts of data, and more devices to view it, means we encounter distracting factors more often. [[Attentive User Intefaces - Mahum]] have been an increasing relevant resource for mitigating the interferance of the distractions. A [Diminished Reality](https://www.marxentlabs.com/diminished-reality-ken-moser-explains-marxent/) approach can be used to filter out information before it is perceived by the our sensory systems. These interfaces have primarily focused on [human-computer interaction](https://www.interaction-design.org/literature/topics/human-computer-interaction), they have begun exploring human-human interaction as well, where they are particularly applicable to individuals with [autism spectrum disorder (ASD)](https://www.cdc.gov/ncbddd/autism/facts.html). This is in contrast to [augmented reality](https://www.fi.edu/what-is-augmented-reality) which aim to [[Directing Visual Attention with AR - Ben| direct users' visual attention]] by inducing visual information rather than reducing it. 
 
-[augmented reality](https://www.fi.edu/what-is-augmented-reality) and how it can be utilized to [[Directing Visual Attention with AR - Ben| direct users' visual attention]]. Diminished reality spaces, in contrast, aim to reduce the distracting visual incidents and continously changing surroundings which adversely affect individuals with [autism spectrum disorder (ASD)](https://www.cdc.gov/ncbddd/autism/facts.html).  
+Kunz et. al [have proposed such a system with a mirror-like, digital wall](https://ieeexplore-ieee-org.ezproxy.library.uvic.ca/document/7344759) which can filter out irrelevant information in a distracting environment as demonstrated in Figure 1 below.
+
+
+| ![Diminished Reality Concept](Images/Diminished_Reality.png) |
+|:--:|
+| *Figure 1: * |
+
+
+[Diagram Source](https://ieeexplore-ieee-org.ezproxy.library.uvic.ca/document/7344759)
+
 
 
 As already mentioned, HCI researchers have investigated intelligent technologies for improved work performance with a special interest in human factors. Besides a focus on sensory and attention processes, we see an opportunity to make interactive devices smart enough to watch our needs and provide information whenever necessary. Human factor research has been dealing with this problem over the last decade under the name of attentive user interfaces (AUI). Human factors and disabling environment design are broad subjects with many alternative approaches. Here, we focus on the following three research issues: (a) Filtering from the general subject of AUIs; (b) augmenting users' visual attention, and (c) interactive assistive technologies for individuals with attention disorders.
@@ -38,10 +45,11 @@ possible AUI solutions for enhancing everyday life process of individuals with A
 
 After the extensive literature overview we organized eight design workshops (Fig. 3) with interaction designers and ASD domain experts (rehabilitators, caretakers, and family members of individuals with ASD) who will also be potential users of such solutions when accompanying an ASD individual. During a period of two months we carried out eight sequential workshops. For each workshop we invited new participants; always five interaction designers and two ASD experts. At the start of each workshop we briefed the participants with insights from our literature review. These workshops benefited our exploration by examining novel ways of bringing our research problem closer to current HCI solutions.
 
-![Diminished Reality Workshops](Images/Diminished_Reality_Workshops.png)[Diagram Source](https://ieeexplore-ieee-org.ezproxy.library.uvic.ca/document/7344759)
+![Diminished Reality Workshops](Images/Diminished_Reality_Workshops.png)
+[Diagram Source](https://ieeexplore-ieee-org.ezproxy.library.uvic.ca/document/7344759)
 
 
-![Diminished Reality Concept](Images/Diminished_Reality.png)[Diagram Source](https://ieeexplore-ieee-org.ezproxy.library.uvic.ca/document/7344759)
+
 
 [Attentive User Interfaces (AUIs)](https://interruptions.net/literature/Vertegaal-CACM03-p30-vertegaal.pdf)
 
@@ -57,17 +65,25 @@ In terms of content filtering (Fig. 4), the “mirror-wall” concept can (a) fi
 
 ## The "Mirror-Wall"
 
-![The "Mirror-Wall"](Images/Diminished_Reality_Guidance.png)[Diagram Source](https://ieeexplore-ieee-org.ezproxy.library.uvic.ca/document/7344759)
+![The "Mirror-Wall"](Images/Diminished_Reality_Guidance.png)
+[Diagram Source](https://ieeexplore-ieee-org.ezproxy.library.uvic.ca/document/7344759)
 
 
 
-![The "Mirror-Wall" providing guidance](Images/Diminished_Reality_Wall.png)[Image Source](https://ieeexplore-ieee-org.ezproxy.library.uvic.ca/document/7344759)
+![The "Mirror-Wall" providing guidance](Images/Diminished_Reality_Wall.png)
+[Image Source](https://ieeexplore-ieee-org.ezproxy.library.uvic.ca/document/7344759)
 
 
 One other discussion has been to overcome proxemics-related problems. Individuals with ASD suffer from social presence within an environment. They can be distracted by the presence of a person, the distance between her/himself and others, people's intimate gestures or physical interactions. Our proposed AUI concept deals with this issue by augmenting the space by projecting information onto the space (Fig. 6). The attentive space can show the ASD individual's tolerance area (Fig. 7b–d) in order to support (or block, if needed) the communication with the surroundings mutually by using the position and proximity information of each individual in the working area. This solution can help an ASD individual to know who is getting closer.
 
-![The "Mirror-Wall Proxemic Zones"](Images/Diminished_Reality_Zones.png)[Image Source](https://ieeexplore-ieee-org.ezproxy.library.uvic.ca/document/7344759)
+![The "Mirror-Wall Proxemic Zones"](Images/Diminished_Reality_Zones.png)
+[Image Source](https://ieeexplore-ieee-org.ezproxy.library.uvic.ca/document/7344759)
 
+
+As a last critical point, the attentive space's spatial design (Fig. 8) can be applied to several different compositions in the surroundings; (a) one wall as well as (b) more than one in the ASD individual's working area in order to minimize the possible interruptions; (c) the eye level so that the ASD individual interacts with it only when he stands and sits; or (d) the ASD individual's desk as a separator.
+
+![The "Mirror-Wall Layouts"](Images/Diminished_Reality_Rooms.png)
+[Image Source](https://ieeexplore-ieee-org.ezproxy.library.uvic.ca/document/7344759)
 
 [[Attentive User Intefaces - Mahum]]
 
