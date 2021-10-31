@@ -61,7 +61,12 @@ In terms of content filtering (Fig. 4), the “mirror-wall” concept can (a) fi
 
 
 
-test
+![The "Mirror-Wall" providing guidance](Images/Diminished_Reality_Wall.png)[Image Source](https://ieeexplore-ieee-org.ezproxy.library.uvic.ca/document/7344759)
+
+
+One other discussion has been to overcome proxemics-related problems. Individuals with ASD suffer from social presence within an environment. They can be distracted by the presence of a person, the distance between her/himself and others, people's intimate gestures or physical interactions. Our proposed AUI concept deals with this issue by augmenting the space by projecting information onto the space (Fig. 6). The attentive space can show the ASD individual's tolerance area (Fig. 7b–d) in order to support (or block, if needed) the communication with the surroundings mutually by using the position and proximity information of each individual in the working area. This solution can help an ASD individual to know who is getting closer.
+
+![The "Mirror-Wall Proxemic Zones"](Images/Diminished_Reality_Zones.png)[Image Source](https://ieeexplore-ieee-org.ezproxy.library.uvic.ca/document/7344759)
 
 
 [[Attentive User Intefaces - Mahum]]
