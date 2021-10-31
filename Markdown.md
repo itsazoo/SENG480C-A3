@@ -1,3 +1,5 @@
+# PRESS CMD or CNTRL + E FOR PREVIEW
+
 [Cheatsheet](https://www.markdownguide.org/cheat-sheet/)
 
 [Obsidian Cheatsheet](https://discord.com/channels/898289729752150158/898289730322579459/904187189150244896)
