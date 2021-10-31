@@ -1,4 +1,6 @@
 [[Attentive User Intefaces - Mahum]]
 [[Aware Brain Computer Interface - Annie]]
 [[Designing for Augmented Attention - CoENOr]]
+[[Directing Visual Attention with AR - Ben]]
+[[Diminished Reality Spaces - Ben]]
 [[Attention - All]]
