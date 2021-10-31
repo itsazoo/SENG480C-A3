@@ -9,3 +9,31 @@
 # Internet Image Example
 
 ![Alt text](https://www.vmcdn.ca/f/files/via/images/city-images/northern-lights-van.jpg)
+
+
+# Code Example
+
+`import numpy as np`
+
+
+# Horizontal Ruling
+
+---
+
+# Ordered lists
+
+1. First Item
+2. Second Item
+3. Third Item
+
+# Unordered
+- First item
+- Second item
+- Third item
+
+> blockquote
+
+*italics*
+
+**bold text**
+
