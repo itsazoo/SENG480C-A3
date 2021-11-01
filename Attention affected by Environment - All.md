@@ -1,6 +1,6 @@
 [[Remote work setting - Annie]]
 [[White noise machines - Mayhem]]
-[[Nature enhances attention - C.P]]
+[[Gamified Interaction with Virtual Nature - Connor]]
 [[Systems to capture student attention - Annie]]
 [[Diminished Reality Spaces - Ben]]
 [[Attention - All]]
