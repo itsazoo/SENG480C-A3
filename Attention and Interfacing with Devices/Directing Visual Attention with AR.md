@@ -25,7 +25,7 @@ As mentioned in [[Attentive User Interfaces]], attention is limited mental resou
 
 Studies of user performance suggest that AR systems can provide a unique benefit when compared to more common printed manuals in terms of task performance, decreasing rates of error, and decreasing the mental load on the individual. This system uses these principles, as motivation to design the Attention Funnel and assumes their credibility.
 
-The system directs users to the target object in real space by drawing the funnel planes along Hermite Curves aimed at the target object. This forms a smooth path from the user's starting position, to the target location as depicted in Figure 2. This path is dynamically created, updating as the user moves regardless of which direction they move in, and takes in to account the orientation of the user's head, or device they are viewing the physical world through.
+The system directs users to the target object in real space by drawing the funnel planes along [Hermite Curves](https://www.brainkart.com/article/Hermite-curve_5710/) aimed at the target object. This forms a smooth path from the user's starting position, to the target location as depicted in Figure 2. This path is dynamically created, updating as the user moves regardless of which direction they move in, and takes in to account the orientation of the user's head, or device they are viewing the physical world through.
 
  | ![Image of Attention Funnel](Images/Attention_Funnel.png) |
  |:--:|
@@ -47,11 +47,7 @@ The attention funnel was tested to establish its effectiveness on reducing menta
  | *Figure 4: Attention Funnel Test Environment and Participant* | 
  [Image Source](https://www-tandfonline-com.ezproxy.library.uvic.ca/doi/pdf/10.2753/MIS0742-1222230408?needAccess=true)
 
-The test found that the attention funnel decreased the visual search time by 22 percent overall, or approximately 28 percent for the visual search phase alone, and 14 percent over its next fastes
-
-It also results indicate that the attention funnel interface has the lowest mental workload (M = 44.64, SD = 16.96), comparing to the visual highlight interface (M = 54.57, SD = 18.26) and the audio interface (M = 55.57, SD = 12.43).
-
-The interface increased user's consistency by an average of 65 percent and 56 percent over the next best interface.
+The test found that the attention funnel decreased visual search times by 22 percent overall. It also found that the attention funnel interface induced the lowest mental workload (M = 44.64, SD = 16.96), compared to the visual highlight interface (M = 54.57, SD = 18.26) and the audio prompt (M = 55.57, SD = 12.43). It also increased user's consistency by an average of 65 percent and 56 percent over the next best interface.
 
 The results can be viewed graphically in Figure 5, and Figure 6 below.
  
