@@ -1,5 +1,5 @@
 # Systems to capture student attention
-[[Attention affected by Environment - All]]
+[[Attention affected by Environment]]
 
 Capturing students' attention is a struggle for teachers at any level of education. The lack of attention that pervades our society can toss blame on the booming tech industry and the introduction of smart phones. Research shows that even adults may develop ADHD because of the speed and abundance of context switching that exists in a smartphone. [[Neuroscience approach to ADHD & improving focus]]. Given the increasing population of smartphone users amongst students, attention is something that will only become increasingly harder to demand from them. 
 
