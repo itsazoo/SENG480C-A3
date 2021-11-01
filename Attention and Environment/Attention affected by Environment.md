@@ -4,4 +4,4 @@ One's environment has a substantial impact on their attention. The quantity and 
 - [[Neuroscience approach to ADHD & improving focus]]: Improving focus with dopamine, 15min meditation, and reduced smartphone usage.
 - [[Gamified Interaction with Virtual Nature]]: Using gamified virtual reality to increase attention restoration.
 - [[Systems to capture student attention]]: Capture student attention by building a community in the classroom setting an facilitating signature attention activities.
-- [[Diminished Reality Spaces]]
+- [[Diminished Reality Spaces]]: Reducing distracting stimuli for those diagnosed with autism spectrum disorder with the 'mirror' wall.
