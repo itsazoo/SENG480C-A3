@@ -1,5 +1,5 @@
 [[Attention affected by Environment]]
-[[Attention & Interfacing with Devices]]
+[[Attention and Interfacing with Devices]]
 [[Diminished Reality Spaces]]
 
 < Master Node >
