@@ -16,7 +16,7 @@ Kunz et. al [have proposed such a system with a mirror-like, digital wall](https
 
 | ![Diminished Reality Concept](Images/Diminished_Reality.png) |
 |:--:|
-| *Figure 1: * |
+| *Figure 1: Diminished Reality 'Mirror' Concept to Reduce Distraction* |
 [Diagram Source](https://ieeexplore-ieee-org.ezproxy.library.uvic.ca/document/7344759)
 
 The mirror-like wall is contructed within a space where information is projected onto surfaces and ojects in the 'mirror'. These are reflections of real objects within the room. Individual attention is augmented with the 'mirror' with the filtration of irrelevant information, and task guidance based on given sets of information. 
@@ -25,12 +25,12 @@ The 'mirror-wall' can (a) filter out extraneous objects by ASD individuals are a
 
 | ![Diminished Reality Concept](Images/Diminished_Reality_Guidance.png) |
 |:--:|
-| *Figure 2: * |
+| *Figure 2: Functions of the 'Mirror' Wall* |
 [Diagram Source](https://ieeexplore-ieee-org.ezproxy.library.uvic.ca/document/7344759)
 
 | ![Diminished Reality Concept](Images/Diminished_Reality_Rooms.png) |
 |:--:|
-| *Figure 3: * |
+| *Figure 3: Variations of 'Mirror' Wall Application* |
 [Diagram Source](https://ieeexplore-ieee-org.ezproxy.library.uvic.ca/document/7344759)
 
 
@@ -40,7 +40,7 @@ The mirror-like wall can also aid other's to establish proxemic boundaries for o
 
 | ![Diminished Reality Concept](Images/Diminished_Reality_Zones.png) |
 |:--:|
-| *Figure 4: * |
+| *Figure 4: 'Mirror' Wall Proxemic Boundary Zones* |
 [Diagram Source](https://ieeexplore-ieee-org.ezproxy.library.uvic.ca/document/7344759)
 
 

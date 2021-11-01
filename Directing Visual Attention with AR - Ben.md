@@ -33,14 +33,14 @@ The system directs users to the target object in real space by drawing the funne
 
  | ![Image of Attention Funnel](Images/Attention_Funnel.png) |
  |:--:|
- | *Figure 2* | 
+ | *Figure 2: Bird's Eye View of Hermite Curve and Pathing* | 
  [Image Source](https://www-tandfonline-com.ezproxy.library.uvic.ca/doi/pdf/10.2753/MIS0742-1222230408?needAccess=true)
  
- Figure 3 provides a real-world view of this functionality.
+ Figure 3 provides a real world view of this functionality.
  
   | ![Image of Attention Funnel](Images/Attention_Funnel_Drawing_Attention.png) |
  |:--:|
- | *Figure 3* | 
+ | *Figure 3: Real World View of Attention Funnel* | 
  [Image Source](https://www-tandfonline-com.ezproxy.library.uvic.ca/doi/pdf/10.2753/MIS0742-1222230408?needAccess=true)
  
 
@@ -48,7 +48,7 @@ The attention funnel was tested to establish its effectiveness on reducing menta
 
  | ![Image of Attention Funnel](Images/Attention_Funnel_Test.png) |
  |:--:|
- | *Figure 4* | 
+ | *Figure 4: Attention Funnel Test Environment and Participant* | 
  [Image Source](https://www-tandfonline-com.ezproxy.library.uvic.ca/doi/pdf/10.2753/MIS0742-1222230408?needAccess=true)
 
 The test found that the attention funnel decreased the visual search time by 22 percent overall, or approximately 28 percent for the visual search phase alone, and 14 percent over its next fastes
@@ -61,12 +61,12 @@ The results can be viewed graphically in Figure 5, and Figure 6 below.
  
  | ![Image of Attention Funnel](Images/Attention_Funnel_Mental_Workload.png) |
  |:--:|
- | *Figure 5* | 
+ | *Figure 5: Reduction in Mental Workload Graph* | 
  [Image Source](https://www-tandfonline-com.ezproxy.library.uvic.ca/doi/pdf/10.2753/MIS0742-1222230408?needAccess=true)
  
  | ![Image of Attention Funnel](Images/Attention_Funnel_Search_Time.png) |
  |:--:|
- | *Figure 6* | 
+ | *Figure 6: Reduction in Search Time Graph* | 
  [Image Source](https://www-tandfonline-com.ezproxy.library.uvic.ca/doi/pdf/10.2753/MIS0742-1222230408?needAccess=true)
 
 
