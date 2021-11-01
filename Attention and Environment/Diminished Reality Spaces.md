@@ -2,15 +2,15 @@ Diminished Reality Spaces - The 'Mirror' Wall
 
 Ben Miller
 
-[[Attention affected by Environment - All]]
-[[Attention & Interfacing with Devices - All]]
-[[Attention (Index) - All]]
+[[Attention affected by Environment]]
+[[Attention & Interfacing with Devices]]
+[[Attention (Index)]]
 
 [Article](https://ieeexplore.ieee.org/abstract/document/7344759?casa_token=NVceMcG0x4IAAAAA:ESE3lc-tiTvd9WzoZzYtHxGrCpW7RPPQoX4LHKfwiD_wB2JXtv32a8R6QLjsP4I1oMj8fgWi8g)
 
 # The 'Mirror' Wall
 
-The ever-increasing emergence of technologies increases distraction. Increasing amounts of data, and an increasing number of devices to view it on, means we encounter distracting factors more often. [[Attentive User Intefaces - Mahum]] have been an increasing relevant resource for mitigating the interferance of these distractions. A [Diminished Reality](https://www.marxentlabs.com/diminished-reality-ken-moser-explains-marxent/) approach can be used to filter out information before it is perceived by the our sensory systems. While these interfaces have primarily focused on [human-computer interaction](https://www.interaction-design.org/literature/topics/human-computer-interaction), they have begun exploring human-human interaction as well, where they are particularly applicable to individuals diagnosed with [autism spectrum disorder (ASD)](https://www.cdc.gov/ncbddd/autism/facts.html). This is in contrast to [augmented reality](https://www.fi.edu/what-is-augmented-reality) which aims to [[Directing Visual Attention with AR - Ben| direct users' visual attention]] by inducing visual information rather than reducing it.
+The ever-increasing emergence of technologies increases distraction. Increasing amounts of data, and an increasing number of devices to view it on, means we encounter distracting factors more often. [[Attentive User Intefaces]] have been an increasing relevant resource for mitigating the interferance of these distractions. A [Diminished Reality](https://www.marxentlabs.com/diminished-reality-ken-moser-explains-marxent/) approach can be used to filter out information before it is perceived by the our sensory systems. While these interfaces have primarily focused on [human-computer interaction](https://www.interaction-design.org/literature/topics/human-computer-interaction), they have begun exploring human-human interaction as well, where they are particularly applicable to individuals diagnosed with [autism spectrum disorder (ASD)](https://www.cdc.gov/ncbddd/autism/facts.html). This is in contrast to [augmented reality](https://www.fi.edu/what-is-augmented-reality) which aims to [[Directing Visual Attention with AR| direct users' visual attention]] by inducing visual information rather than reducing it.
 
 Kunz et. al [have proposed such a system with a mirror-like, digital wall](https://ieeexplore-ieee-org.ezproxy.library.uvic.ca/document/7344759) which can filter out irrelevant information in a distracting environment as demonstrated in Figure 1 below. As individuals with ASD vary in terms of visual and auditory perception, and visual representation ability, the mirror-like wall proposed is interactive and focuses on the varied visual needs of ASD individuals.
 
@@ -51,6 +51,6 @@ The mirror-like wall can also aid other's to establish proxemic boundaries for o
 
 
 
-[[Attentive User Intefaces - Mahum]]
+[[Attentive User Intefaces]]
 
-[[Attention affected by Environment - All]]
+[[Attention affected by Environment]]
