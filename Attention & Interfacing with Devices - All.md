@@ -3,4 +3,4 @@
 [[Designing for Augmented Attention - Connor]]
 [[Directing Visual Attention with AR - Ben]]
 [[Diminished Reality Spaces - Ben]]
-[[Attention - All]]
+[[Attention (Index) - All]]
