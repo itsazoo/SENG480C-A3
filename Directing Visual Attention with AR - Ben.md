@@ -25,7 +25,7 @@ As mentioned in [[Attentive User Intefaces - Mahum]], attention is limited menta
 | *Figure 1: * The Attention Funnel and its Components |
  [Image Source](https://www-tandfonline-com.ezproxy.library.uvic.ca/doi/pdf/10.2753/MIS0742-1222230408?needAccess=true)
  
- # Effectiveness
+ ## Effectiveness
 
 Studies of user performance suggest that AR systems can provide a unique benefit when compared to more common printed manuals in terms of task performance, decreasing rates of error, and decreasing the mental load on the individual. This system uses these principles, as motivation to design the Attention Funnel and assumes their credibility.
 
@@ -70,7 +70,7 @@ The results can be viewed graphically in Figure 5, and Figure 6 below.
  [Image Source](https://www-tandfonline-com.ezproxy.library.uvic.ca/doi/pdf/10.2753/MIS0742-1222230408?needAccess=true)
 
 
-# Assumptions
+## Assumptions
 
 The attention funnel is dependant on 
 
