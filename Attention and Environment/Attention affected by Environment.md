@@ -3,7 +3,6 @@ One's environment has a substantial impact on their attention. The quantity and 
 
 - [[Neuroscience approach to ADHD & improving focus - Annie]]
 - [[White noise machines]]
-- [[Gamified Interaction with Virtual Nature]]
+- [[Gamified Interaction with Virtual Nature]]: Using gamified virtual reality to increase attention restoration
 - [[Systems to capture student attention]]
 - [[Diminished Reality Spaces]]
-- [[Attention (Index)]]
