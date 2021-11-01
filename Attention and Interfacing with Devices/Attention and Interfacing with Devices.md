@@ -3,5 +3,5 @@ To preserve the precious resource that is human attention, external devices and 
 1. [[Attentive User Interfaces]]: Attentive User Interfaces are UI's which are sensitive to a user's attention and conserves it through statistical models.
 2. [[Aware Brain Computer Interface]]: Vortmann and Putze propose an augmented reality system which includes the use of an EEG and eye tracking data to differentiate between external and internal states of user attention and providing appropriate prompts based on the user's attention state.
 3. [[Designing Attentive User Interfaces]]: Outlining the attention problems with current GUIs and describing some example AUIs.
-4. [[Directing Visual Attention with AR]]:
-5. [[Diminished Reality Spaces]]:
+4. [[Directing Visual Attention with AR]]: Using augmented reality to direct user attention more effectively and reduce the mental load on individuals.
+5. [[Diminished Reality Spaces]]: Reducing distracting stimuli for those diagnosed with autism spectrum disorder with the 'mirror' wall.
