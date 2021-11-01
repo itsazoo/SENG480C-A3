@@ -1,9 +1,5 @@
 Directing Visual Attention with AR
 
-[[Attention affected by Environment]]
-[[Attention and Interfacing with Devices]]
-[[Attention (Index)]]
-
 [Article](https://www.tandfonline.com/doi/abs/10.2753/MIS0742-1222230408?casa_token=PXHug6pj6U4AAAAA:miysc_ERphWaHMeO3wXmedYLuyELmEp1n_5HQNStOEt9Llvr7qERegqfEELMebTWXefhY2bWFymP)
 
 

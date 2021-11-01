@@ -5,4 +5,3 @@ To preserve the precious resource that is human attention, external devices and 
 3. [[Designing Attentive User Interfaces]]: Outlining the attention problems with current GUIs and describing some example AUIs.
 4. [[Directing Visual Attention with AR]]:
 5. [[Diminished Reality Spaces]]:
-6. [[Attention (Index)]]:
