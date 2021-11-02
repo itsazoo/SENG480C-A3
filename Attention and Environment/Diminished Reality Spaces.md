@@ -1,10 +1,6 @@
-Diminished Reality Spaces - The 'Mirror' Wall
-
-Ben Miller
+# The 'Mirror' Wall
 
 [Article](https://ieeexplore.ieee.org/abstract/document/7344759?casa_token=NVceMcG0x4IAAAAA:ESE3lc-tiTvd9WzoZzYtHxGrCpW7RPPQoX4LHKfwiD_wB2JXtv32a8R6QLjsP4I1oMj8fgWi8g)
-
-# The 'Mirror' Wall
 
 The ever-increasing emergence of technologies increases distraction. Increasing amounts of data, and an increasing number of devices to view it on, means we encounter distracting factors more often. [[Attentive User Interfaces]] have been an increasing relevant resource for mitigating the interferance of these distractions. A [Diminished Reality](https://www.marxentlabs.com/diminished-reality-ken-moser-explains-marxent/) approach can be used to filter out information before it is perceived by the our sensory systems. While these interfaces have primarily focused on [human-computer interaction](https://www.interaction-design.org/literature/topics/human-computer-interaction), they have begun exploring human-human interaction as well, where they are particularly applicable to individuals diagnosed with [autism spectrum disorder (ASD)](https://www.cdc.gov/ncbddd/autism/facts.html). This is in contrast to [augmented reality](https://www.fi.edu/what-is-augmented-reality) which aims to [[Directing Visual Attention with AR| direct users' visual attention]] by inducing visual information rather than reducing it.
 
