@@ -1,9 +1,9 @@
-[[Attention affected by Environment]]
-[[Attention and Interfacing with Devices]]
-[[Diminished Reality Spaces]]
-
 < Master Node >
 
-Index:
-
+# Introduction
+Our general topic is Attention. In our research we focus on two sub topics: 1. [[Attention affected by Environment]], 2. [[Attention and Interfacing with Devices]]. 
+Attention and Environment explores the impacts the environment has on our attention. The research articles we found cover ways to adjust the environment to improve attention by either reducing stimuli for those on the autism spectrum, creating a community space with learning activities for students, or using gamified virtual reality. The unique note under this sub topic covers protocols one can do to increase their focus ability. Instead of adjusting the environment, this note offers solutions for people to limit their interactions with the environment to increase attention. 
+The second sub topic, Attention and Interfacing with Devices, covers external devices that can aid human attention by either supporting or replacing the need for attention on a task. The research notes in this sub topic explored issues with our current GUIs and provides solutions to adjust the GUI to be more attentive to user’s attention. This can apply to augmented reality interfaces or wearable interfaces such as headphones. We classify Diminished Reality Spaces note under this sub topic as well because in their study they use a ‘mirror’ wall which is the device that users interface with to aid attention. 
+# Organization
+We organized our notes under these two sub topics. The Diminished Reality Spaces note falls into both sub topics therefore it is referenced by both as seen in the graph view. Our subtopics are each supported by around 5 notes that reference research articles or podcasts. The notes in our subtopics contain the write up that summarizes key ideas from the associated research article or podcast. Some research notes pull reference from other research notes therefore the graph looks highly coupled. Each sub topic has a note itself that summarizes the main idea of the subtopic and links to the research notes with a one line summary. The subtopic notes should be the first file in each folder.
 	
