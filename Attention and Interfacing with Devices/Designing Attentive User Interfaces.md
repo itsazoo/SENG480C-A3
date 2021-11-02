@@ -28,7 +28,7 @@ eyeWINDOWS takes this technology and applies it to a traditional GUI, replacing 
 |Figure 3: eyeWINDOWS with zooming focus window|
 
 ### Attentive Cubicles
-Managing attention between co-workers who are all work with close proximity with one another can be a difficult task. Two co-workers might be discussing a problem with each other, while another co-worker sitting nearby is dilligently working away at their computer and does not want to be distracted by the ongoing conversation. Utilizing eyeREASON with tools such as Attentive Headphones (a pair of noise cancelling headphones with an eye contact sensor attached) and privacy glass (glass that appears opaque when powered off and translucent when powered on thanks to the layer of liquid crystals inside) can allow distractions to be flitered out, only letting conversations take place when users are making eye contact. See Figure 4 for an example of this type of system.
+Managing attention between co-workers who all work with close proximity with one another can be a difficult task. Two co-workers might be discussing a problem with each other, while another co-worker sitting nearby is diligently working away at their computer and does not want to be distracted by the ongoing conversation. Utilizing eyeREASON with tools such as Attentive Headphones (a pair of noise cancelling headphones with an eye contact sensor attached) and privacy glass (glass that appears opaque when powered off and translucent when powered on thanks to the layer of liquid crystals inside) can allow distractions to be filtered out, only letting conversations take place when users are making eye contact. See Figure 4 for an example of this type of system.
 
 |![](Images/attentive_cubicle.png)|
 |:--:|
