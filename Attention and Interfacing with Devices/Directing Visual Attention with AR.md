@@ -1,4 +1,4 @@
-# The Attention Funnel
+# Directing Visual Attention with AR - The Attention Funnel
 [Article](https://www.tandfonline.com/doi/abs/10.2753/MIS0742-1222230408?casa_token=PXHug6pj6U4AAAAA:miysc_ERphWaHMeO3wXmedYLuyELmEp1n_5HQNStOEt9Llvr7qERegqfEELMebTWXefhY2bWFymP)
 
 The evolution of mobile computing has created a more ubiquitous integration of physical space and digital information. [Radio frequency identification (RFID)](https://www.rfidinc.com/rfid-101/), geospatial data, and rich databases enable the further integration of the physical world and the virtual information that is flying through it.
