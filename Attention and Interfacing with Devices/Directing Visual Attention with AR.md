@@ -3,9 +3,9 @@
 
 The evolution of mobile computing has created a more ubiquitous integration of physical space and digital information. [Radio frequency identification (RFID)](https://www.rfidinc.com/rfid-101/), geospatial data, and rich databases enable the further integration of the physical world and the virtual information that is flying through it.
 
-To augment, and complement human attention with [augmented reality (AR)](https://www.fi.edu/what-is-augmented-reality), Biocca et. al have proposed a [system for implicit visuospatial cueing which supports a user in search and navigation](https://www-jstor-org.ezproxy.library.uvic.ca/stable/40398875?pq-origsite=summon&seq=1#metadata_info_tab_contents) labelled as the 'Attention Funnel'. Applicable scenarios include a warehose worker managing inventory, and searching for particular items in select aisles, to training repair technicians with an AR system to learn procedural repair steps and the tools used for them. AR enhances the real world and so may have more practical application that the related [virtualy reality (VR)](https://www.vrs.org.uk/virtual-reality/what-is-virtual-reality.html), where the environment is replaced by computer-generated imagery.
+To augment, and complement human attention with [augmented reality (AR)](https://www.fi.edu/what-is-augmented-reality), Biocca et. al have proposed a [system for implicit visuospatial cueing which supports a user in search and navigation](https://www-jstor-org.ezproxy.library.uvic.ca/stable/40398875?pq-origsite=summon&seq=1#metadata_info_tab_contents) labelled as the 'Attention Funnel'. Applicable scenarios include a warehouse worker managing inventory, and searching for particular items in select aisles, to training repair technicians with an AR system to learn procedural repair steps and the tools used for them. AR enhances the real world and so may have more practical application that the related [virtual reality (VR)](https://www.vrs.org.uk/virtual-reality/what-is-virtual-reality.html), where the environment is replaced by computer-generated imagery.
 
-As mentioned in [[Attentive User Interfaces]], attention is limited mental resource, and as such the Attention Funnel aims to reduce the mental load associated with attention that individuals are often burdened with. It targets AR capable devices and is composed of three basic components depicted in figure 1 below. These are
+As mentioned in [[Attentive User Interfaces]], attention is a limited mental resource, and as such the Attention Funnel aims to reduce the mental load associated with attention that individuals are often burdened with. It targets AR capable devices and is composed of three basic components depicted in figure 1 below. These are
 <ol type="A">
   <li>A view plane: A virtual bore-sight centered in the display to mark the centre of the pattern from the user's perspective</li>
   <li>Funnel planes: A virtual set of planes (placed every 0.2 meters) directed towards the object the individual is seeking</li>
@@ -19,9 +19,9 @@ As mentioned in [[Attentive User Interfaces]], attention is limited mental resou
  
  ## Effectiveness
 
-Studies of user performance suggest that AR systems can provide a unique benefit when compared to more common printed manuals in terms of task performance, decreasing rates of error, and decreasing the mental load on the individual. This system uses these principles, as motivation to design the Attention Funnel and assumes their credibility.
+Studies of user performance suggest that AR systems can provide a unique benefit when compared to more common printed manuals in terms of task performance, decreasing rates of error, and decreasing the mental load on the individual. This system uses these principles as motivation to design the Attention Funnel and assumes their credibility.
 
-The system directs users to the target object in real space by drawing the funnel planes along [Hermite Curves](https://www.brainkart.com/article/Hermite-curve_5710/) aimed at the target object. This forms a smooth path from the user's starting position, to the target location as depicted in Figure 2. This path is dynamically created, updating as the user moves regardless of which direction they move in, and takes in to account the orientation of the user's head, or device they are viewing the physical world through.
+The system directs users to the target object in real space by drawing the funnel planes along [Hermite Curves](https://www.brainkart.com/article/Hermite-curve_5710/) aimed at the target object. This forms a smooth path from the user's starting position, to the target location as depicted in Figure 2. This path is dynamically created, updating as the user moves regardless of which direction they move in, and takes into account the orientation of the user's head, or device they are viewing the physical world through.
 
  | ![Image of Attention Funnel](Images/Attention_Funnel.png) |
  |:--:|
@@ -62,7 +62,8 @@ The results can be viewed graphically in Figure 5, and Figure 6 below.
 
 The attention funnel is dependant on 
 
-1. Technology capable of presenting 3D graphics, as well as their connection to a heterogeneous wireless network topology which enables users to access information anytime, and anywhere. These devices must be able to be 'seen through' with a camera that displays what is sees on the screen, or sophisticated lenses which project imagery on to the physical world.
+1. Technology capable of presenting 3D graphics, as well as their connection to a heterogeneous wireless network topology which enables users to access information anytime, and anywhere. These devices must be able to be 'seen through' with a camera that displays what is seen on the screen, or sophisticated lenses which project imagery onto the physical world.
 2. Identifiable target objects by either 3D virtual tracking, RFID markers, or spatial GPS coordinates. Labels, overlays, 3D objects and other information must also be integrated/encoded into the physical environment.
 3. Cuening of objects and tasks to effectively support navigation and searching for an extended time.
+
 
